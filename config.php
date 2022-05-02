@@ -3,9 +3,9 @@
 
 //-----------------------------------------------------------------------------------------//
 //Website Basic Informations
-$site_name = 'GARVIT_XD';
-$site_icon = 'assets/img/GARVITLUND.png';
-$owner = 'GARVIT_XD';
+$site_name = 'YHVGA-CHK✅SK';
+$site_icon = 'assets/img/sticker.png';
+$owner = 'YHVGA-CHK✅SK';
 
 //-----------------------------------------------------------------------------------------//
 //API Informations
